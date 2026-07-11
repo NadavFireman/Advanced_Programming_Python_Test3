@@ -16,6 +16,3 @@ The exam integrates all major topics covered in the course: advanced data prepro
 * **`Advanced_Programming_Test3.ipynb`**: Full Python solution notebook with code and analysis results for the exam.
 * **`cancer.csv`**: The medical dataset used in the examination.
 * **`Test_Instructions_3.pdf`**: Original examination instructions.
-
-***
-*Course: Advanced Programming (Shenkar College, IE&M)*
